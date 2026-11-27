@@ -1,1 +1,1 @@
-"rapy.pl"
+rapy.pl
